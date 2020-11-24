@@ -5,6 +5,8 @@ public class Value {
 	public static void main(String[] args) {
 		System.out.println("SeleniumData");
 		System.out.println("SeleniumData1");
+		System.out.println("SeleniumData2");
+		System.out.println("SeleniumData3");
 	}
 
 }
