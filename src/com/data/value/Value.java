@@ -7,6 +7,10 @@ public class Value {
 		System.out.println("SeleniumData1");
 		System.out.println("SeleniumData2");
 		System.out.println("SeleniumData3");
+		System.out.println("SeleniumData7");
+		System.out.println("SeleniumData8");
+		System.out.println("SeleniumData5");
+		System.out.println("SeleniumData4");
 	}
 
 }
