@@ -23,6 +23,14 @@ public class Job {
 	public void value4() {
 		System.out.println("get my info on the git Four");
 	}
+	@Test
+	public void value5() {
+		System.out.println("get my info on the git Five");
+	}
+	@Test
+	public void value6() {
+		System.out.println("get my info on the git Six");
+	}
 	
 
 }
