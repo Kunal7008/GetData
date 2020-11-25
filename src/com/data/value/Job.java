@@ -7,5 +7,22 @@ public class Job {
 	public void value() {
 		System.out.println("get my info on the git");
 	}
+	@Test
+	public void value1() {
+		System.out.println("get my info on the git One");
+	}
+	@Test
+	public void value2() {
+		System.out.println("get my info on the git Two");
+	}
+	@Test
+	public void value3() {
+		System.out.println("get my info on the git Three");
+	}
+	@Test
+	public void value4() {
+		System.out.println("get my info on the git Four");
+	}
+	
 
 }
