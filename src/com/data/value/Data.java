@@ -17,6 +17,10 @@ public class Data {
 	public void het2() {
 	System.out.println("porn star");
 	}
+	@Test
+	public void het3() {
+	System.out.println("hot sex");
+	}
 
 
 }
