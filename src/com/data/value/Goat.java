@@ -19,4 +19,16 @@ public void get2() {
 public void get3() {
 	System.out.println("gat3");
 }
+@Test
+public void get4() {
+	System.out.println("gat4");
+}
+@Test
+public void get5() {
+	System.out.println("gat5");
+}
+@Test
+public void get6() {
+	System.out.println("gat6");
+}
 }
