@@ -31,6 +31,10 @@ public class Job {
 	public void value6() {
 		System.out.println("get my info on the git Six");
 	}
+	@Test
+	public void value7() {
+		System.out.println("get my info on the git Six");
+	}
 	
 
 }
