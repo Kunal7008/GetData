@@ -21,6 +21,11 @@ public class Data {
 	public void het3() {
 	System.out.println("hot sex");
 	}
+	@Test
+	public void het4() {
+	System.out.println("hot summer");
+	}
+
 
 
 }
