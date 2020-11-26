@@ -15,4 +15,12 @@ public void lobsterOne() {
 public void lobsterTwo() {
 	System.out.println("koimoi");
 }
+@Test
+public void lobsterThree() {
+	System.out.println("koimoi");
+}
+@Test
+public void lobsterFour() {
+	System.out.println("koimoi");
+}
 }
