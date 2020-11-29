@@ -13,15 +13,6 @@ public class Value {
 		System.out.println("SeleniumData42");
 		System.out.println("SeleniumData43");
 		System.out.println("SeleniumData44");
-<<<<<<< HEAD
-		
-=======
-		System.out.println("SeleniumData45");
-		System.out.println("SeleniumData46");
-		System.out.println("SeleniumData47");
-		System.out.println("SeleniumData467");
 
->>>>>>> develop
-	}
-
+}
 }
