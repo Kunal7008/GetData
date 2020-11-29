@@ -15,8 +15,7 @@ public class Value {
 		System.out.println("SeleniumData44");
 		System.out.println("SeleniumData45");
 		System.out.println("SeleniumData46");
-		System.out.println("SeleniumData47");
-		System.out.println("SeleniumData487");
+
 	}
 
 }
