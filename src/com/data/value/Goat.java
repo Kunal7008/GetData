@@ -35,4 +35,16 @@ public void get6() {
 public void get7() {
 	System.out.println("gat7");
 }
+@Test
+public void get8() {
+	System.out.println("gat7");
+}
+@Test
+public void get9() {
+	System.out.println("gat7");
+}
+@Test
+public void get10() {
+	System.out.println("gat7");
+}
 }
