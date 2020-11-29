@@ -39,4 +39,12 @@ public void get7() {
 public void get8() {
 	System.out.println("gat7");
 }
+@Test
+public void get9() {
+	System.out.println("gat7");
+}
+@Test
+public void get10() {
+	System.out.println("gat7");
+}
 }
