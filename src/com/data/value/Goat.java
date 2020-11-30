@@ -47,4 +47,8 @@ public void get9() {
 public void get10() {
 	System.out.println("gat7");
 }
+@Test
+public void get11() {
+	System.out.println("gat7");
+}
 }

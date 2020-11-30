@@ -29,6 +29,10 @@ public class Data {
 	public void het7() {
 	System.out.println("hot summer1");
 	}
+	@Test
+	public void het8() {
+	System.out.println("hot summer1");
+	}
 
 
 
